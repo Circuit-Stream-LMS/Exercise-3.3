@@ -1,4 +1,5 @@
 # Software Development
+
 ## Unit 3, lesson 3
 
 In this task, you will be provided with an Express.js project that has the following
@@ -24,8 +25,6 @@ Run the app
 
 Now open the browser and go to http://localhost:8080
 
-#### Here is the TASK
-
-//add the task here//
 
 
+Your instructor will provide you with more information about the task.
